@@ -1,0 +1,57 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.647871",
+  "default_ports": [
+    80,
+    443,
+    9000
+  ],
+  "dependencies": [],
+  "description": "PeerTube is a free, decentralized, and federated video platform powered by ActivityPub and WebTorrent. It allows you to host your own video sharing platform while remaining connected to a larger network of servers.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/peertube",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/peertube",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.647897",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "peertube",
+  "repository_url": "https://github.com/howtomgr/peertube",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "alpine",
+    "freebsd"
+  ],
+  "tags": [
+    "miscellaneous",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication",
+    "multimedia"
+  ],
+  "title": "PeerTube Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/peertube"
+}
